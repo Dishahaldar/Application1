@@ -1,0 +1,3 @@
+spring.data.mongodb.uri=mongodb://localhost:27017/assignmentDB
+spring.data.mongodb.database=assignmentDB
+server.port=8080
